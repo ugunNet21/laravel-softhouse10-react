@@ -28,6 +28,12 @@ Laravel has the most extensive and thorough [documentation](https://laravel.com/
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## SS
+![Screenshot 2024-02-15 195347](https://github.com/ugunNet21/laravel-softhouse10-react/assets/45864165/688cf77d-8576-4ba9-aea4-9904cad1e479)
+![Screenshot 2024-02-15 195358](https://github.com/ugunNet21/laravel-softhouse10-react/assets/45864165/5cab7d38-b579-460c-9a50-168ea97fe37b)
+![Screenshot 2024-02-15 195447](https://github.com/ugunNet21/laravel-softhouse10-react/assets/45864165/55c2b420-60c0-4417-abf0-5a3f7601ab3b)
+![Screenshot 2024-02-15 195701](https://github.com/ugunNet21/laravel-softhouse10-react/assets/45864165/8c062b99-1fa7-43d2-896b-6e01cacc4c6d)
+
 
 ## Laravel Sponsors
 
